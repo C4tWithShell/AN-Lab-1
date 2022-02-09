@@ -1,2 +1,2 @@
-# AN-Lab-1
-QoS
+# AN Lab 1 - QoS
+In this lab, you will learn one of the most important and interesting topics in Advanced Networking: Quality of Service. Qos is a technology for providing different classes of traffic with different service priorities. You will learn speed limiting and bandwidth testing tools, Traffic shaping and Traffic Policing, traffic prioritization, learn how to apply QoS rules, learn about physical QoS metrics and answer a number of theoretical questions.
